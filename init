@@ -1,4 +1,5 @@
 git clone https://github.com/binary-person/rammerhead.git
 cd rammerhead
 npm install
+npm run build
 npm run
